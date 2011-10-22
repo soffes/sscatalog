@@ -4,4 +4,4 @@ SSCatalog is an example application to demonstrate various features of [SSToolki
 
 To run the application, run the following command:
 
-    $ git clone https://github.com/samsoffes/sstoolkit.git --recursive
+    $ git clone https://github.com/samsoffes/sscatalog.git --recursive
